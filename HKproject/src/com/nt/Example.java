@@ -10,13 +10,9 @@ public class Example {
 		
 		System.out.println("hwloo world");
 		System.out.println("hiii mama");
-		System.out.println("hshajhsjhjs");
-		//////////
-
-		//////////////////
-		System.out.println("hiii ra maaamaa");
-		System.out.println("hiii ra ");
-		m1();
+		Sample e=new Sample();
+		
+		System.out.println(e.m1());
 
 	}
 
