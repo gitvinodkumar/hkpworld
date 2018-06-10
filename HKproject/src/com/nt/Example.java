@@ -11,8 +11,10 @@ public class Example {
 		System.out.println("hwloo world");
 		System.out.println("hiii mama");
 		Sample e=new Sample();
+		Sample23 e1=new Sample23();
 		
 		System.out.println(e.m1());
+		System.out.println(e1.m2());
 
 	}
 
