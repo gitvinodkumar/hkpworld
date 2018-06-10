@@ -5,8 +5,8 @@ public class Sample {
 	
 	int m1(){
 		int a=10;
-		int b=90;
-		int c=a+b;
+		int d=90;
+		int c=a+d;
 		return c;
 	}
 
