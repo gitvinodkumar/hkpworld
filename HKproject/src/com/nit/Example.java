@@ -1,5 +1,7 @@
 package com.nit;
 
+import com.nt.hk.Test;
+
 public class Example {
 	
 	
@@ -10,6 +12,8 @@ public class Example {
 		System.out.println("how are you");
 		System.out.println("jhsdfjksdjkfsdhkfhsdkfh");
 		System.out.println("jhdfgdsjdkfbsjfbjdfbjdjbbfjdggjhdbjghbddgb");
+		Test t=new Test();
+		t.m1();
 	}
 
 }
