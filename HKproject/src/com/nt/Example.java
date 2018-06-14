@@ -15,9 +15,6 @@ public class Example {
 		Sample23 e1=new Sample23();
 		
 		System.out.println(e.m1());
-	//	System.out.println(e1.m2());
-		
-
 	}
 
 }
