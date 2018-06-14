@@ -15,6 +15,7 @@ public class Example {
 		
 		System.out.println(e.m1());
 		System.out.println(e1.m2());
+		System.out.println("sjkfhsjhfjsdhfjsdhfjsdhfjsdhfjhsdjfhsjdfh");
 		
 
 	}

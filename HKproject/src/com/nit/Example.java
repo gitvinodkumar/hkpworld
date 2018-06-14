@@ -9,7 +9,11 @@ public class Example {
 		System.out.println("hello vinod");
 		System.out.println("how are you");
 		System.out.println("jhsdfjksdjkfsdhkfhsdkfh");
+<<<<<<< HEAD
 		
+=======
+		/*jashfjashfshfjkhsjfhsjfhsjfhjkshfjshfjshfjshfjkhsjfhsjfhsjfhsfjshf*/
+>>>>>>> stash
 	}
 
 }
